@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(
+                            to left,
+                             #51e2f5, 
+                             #9df9ef,
+                             #edf756,
+                             #ffa8B6,  
+                             #a28089
+    ); 
+}
+
+video{
+    border:2px solid black;
+    margin:0;
+    padding:0;    
+}
